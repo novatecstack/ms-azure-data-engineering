@@ -167,7 +167,7 @@ This repository contains instructions and assets for hands-on exercises to suppo
     - Activity Logs
     - Insights
  
- *  Monitoring & Logging: Azure Synapse workloads | Azure Stream Analitics | Azure Databricks
+ *  Monitoring & Logging: Azure Synapse workloads | Azure Stream Analytics | Azure Databricks
  
  *  Optimizing Azure Data Lake Gen2 storage cost: Access tiers & Lifecycle Policies
  
