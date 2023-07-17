@@ -1,4 +1,4 @@
-# [Data Engineering on Microsoft Azure (DP-203)](https://learn.microsoft.com/en-us/certifications/exams/dp-203/)
+# [Microsoft Azure Data Engineering and Analytics Masterclass Course](https://learn.microsoft.com/en-us/certifications/exams/dp-203/)
 
 In this course, we will get the expertise in integrating, transforming, and consolidating data from various structured, unstructured, and streaming data systems into a suitable schema for building analytics solutions.
 
